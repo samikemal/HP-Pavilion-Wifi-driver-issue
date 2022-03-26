@@ -1,4 +1,4 @@
-# HP-Pavilion-Wifi-friver-issue
+# HP-Pavilion-Wifi-driver-issue
 
 Firstly you can dowload the latest Linux firmware from this URL (http://security.ubuntu.com/ubuntu/pool/main/l/linux-firmware/)
 
